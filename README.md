@@ -64,6 +64,7 @@ Conçu pour les appareils mobiles :
 - Coordination des secours sans réseau téléphonique
 - Localisation des victimes et distribution de l'aide
 - Communication familiale pendant les crises
+- **Prévention du stress et de l'isolement** : Garder le contact pour éviter de "péter les plombs" quand tout s'effondre
 
 ### 🏥 **Santé et éducation**
 - Téléconsultations dans les villages isolés
