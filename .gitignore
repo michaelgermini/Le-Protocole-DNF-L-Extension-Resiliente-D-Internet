@@ -1,0 +1,66 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Log Files
+*.log
+logs/
+
+# Build and Distribution
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Package Managers
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Documentation Generated Files
+*.pdf
+*.epub
+*.mobi
+*.docx
+*.html
+
+# Backup Files
+*.bak
+*.orig
+*.rej
+
+# Personal Notes (if any)
+notes.txt
+todo.txt
+scratch.md
