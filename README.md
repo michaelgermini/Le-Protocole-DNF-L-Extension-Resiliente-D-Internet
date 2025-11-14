@@ -2,7 +2,7 @@
 
 ## 🔬 Qu'est-ce que le DNF (Distributed Name Forwarding) ?
 
-Le **DNF** est une architecture révolutionnaire qui transforme votre téléphone mobile en un **nœud actif d'un réseau distribué mondial**. Contrairement à Internet traditionnel qui repose sur des data centers centralisés et des câbles sous-marins, le DNF crée un réseau **décentralisé** où chaque appareil participe à la communication collective.
+Le **DNF** est une architecture révolutionnaire qui transforme votre téléphone mobile en un **nœud actif d'un réseau distribué mondial**. Contrairement à Internet traditionnel qui repose sur des data centers centralisés et des câbles sous-marins, le DNF crée un réseau **décentralisé** où chaque appareil participe à la communication collective via un système de **bouche-à-oreille** numérique.
 
 ### 🌐 La révolution du téléphone comme infrastructure
 
